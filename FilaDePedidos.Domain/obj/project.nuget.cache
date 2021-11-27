@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fwg9ytyG9lWHC3hLfiNCT5P6CHYr7ofFCER5O0mqYjhO+murx4u7vcWEP6HH4uQzNlDboGPOAI6Xg4Wq8sMUpA==",
+  "dgSpecHash": "qb1aUUKmf/eu9Xnt4/CLryxcB5OBm+s+uvx3x4TnahonOfUNjsHPQIkHBF/rjB6imWT5t/qNsYey/Z/jEQZf0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BLUIZA\\OneDrive - Ultradent Products Inc\\Desktop\\TI\\WCC\\RDI\\RESTAURANTE\\FilasDePedidos\\FilaDePedidos.Domain\\FilasDePedidos.Domain.csproj",
+  "projectFilePath": "C:\\Users\\BLUIZA\\Source\\Repos\\FilaDePedidos\\FilaDePedidos.Domain\\FilasDePedidos.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,39 +1,51 @@
 ﻿using FilasDePedidos.Domain.FilaDomain;
 using FilasDePedidos.Domain.PedidosDomain;
 
-namespace FilasDePedidos.Domain.ServicoDeFila;
-
-    public class ServicoDeFila
+namespace FilasDePedidos.Domain.FilaDomain
+{
+    public class ServicoDeFila : IServicoDeFila
     {
-      public Fila FilaDeLanches { get; set; }
+          public Fila FilaDeLanches { get; set; }
 
-      public Fila FilaDeAcompanhamentos { get; set; }
+          public Fila FilaDeAcompanhamentos { get; set; }
 
-      public Fila FilaDeSobremesas { get; set; }
+          public Fila FilaDeSobremesas { get; set; }
 
-      public Fila FilaDeBebidas { get; set; }
-    
-      public void AdicionarNaFila(Item item)
-    {
-        switch (item.Categoria)
+          public Fila FilaDeBebidas { get; set; }
+
+        public ServicoDeFila ()
         {
-            case CategoriasDeItem:
-                Console.WriteLine($"Measured value is {measurement}; too low.");
-                break;
+            FilaDeLanches = new Fila("lanches");
 
-            case > 15.0:
-                Console.WriteLine($"Measured value is {measurement}; too high.");
-                break;
+            FilaDeAcompanhamentos = new Fila("acompanhamentos");
 
-            case double.NaN:
-                Console.WriteLine("Failed measurement.");
-                break;
+            FilaDeSobremesas = new Fila("sobremesas");
 
-            default:
-                Console.WriteLine($"Measured value is {measurement}.");
-                break;
+            FilaDeBebidas = new Fila("bebidas");
         }
 
-    }
-}
+        public void AdicionarNaFila(Item item)
+            {
+                switch (item.Categoria)
+                {
+                    case CategoriasDeItem.Acompanhamentos:
+                        FilaDeAcompanhamentos.Itens.Add(item);
+                        break;
+
+                    case CategoriasDeItem.Lanches:
+                        FilaDeLanches.Itens.Add(item);
+                        break;
+
+                    case CategoriasDeItem.Bebidas:
+                        FilaDeBebidas.Itens.Add(item);
+                        break;
+                    case CategoriasDeItem.Sobremesas:
+                        FilaDeSobremesas.Itens.Add(item);
+                        break;
+
+                }
+             }
+
+      }
+ }
 

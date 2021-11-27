@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "3ckZqsm8iiI+gcY4oFNRRVhJc25NWYRsteZIJM3qYLA=",
+  "Source": "FilasDePedidos",
+  "BasePath": "_content/FilasDePedidos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\BLUIZA\\Source\\Repos\\FilaDePedidos\\FilaDePedidos.Domain\\FilasDePedidos.Domain.csproj",
+      "Version": 2,
+      "Source": "FilasDePedidos.Domain",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

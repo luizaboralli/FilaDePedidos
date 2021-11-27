@@ -1,0 +1,15 @@
+C:\Users\BLUIZA\Source\Repos\FilaDePedidos\FilaDePedidos.Domain\obj\Debug\net6.0\FilasDePedidos.Domain.csproj.AssemblyReference.cache
+C:\Users\BLUIZA\Source\Repos\FilaDePedidos\FilaDePedidos.Domain\obj\Debug\net6.0\FilasDePedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLUIZA\Source\Repos\FilaDePedidos\FilaDePedidos.Domain\obj\Debug\net6.0\FilasDePedidos.Domain.AssemblyInfoInputs.cache
+C:\Users\BLUIZA\Source\Repos\FilaDePedidos\FilaDePedidos.Domain\obj\Debug\net6.0\FilasDePedidos.Domain.AssemblyInfo.cs
+C:\Users\BLUIZA\Source\Repos\FilaDePedidos\FilaDePedidos.Domain\obj\Debug\net6.0\FilasDePedidos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BLUIZA\Source\Repos\FilaDePedidos\FilaDePedidos.Domain\bin\Debug\net6.0\FilasDePedidos.Domain.deps.json
+C:\Users\BLUIZA\Source\Repos\FilaDePedidos\FilaDePedidos.Domain\bin\Debug\net6.0\FilasDePedidos.Domain.dll
+C:\Users\BLUIZA\Source\Repos\FilaDePedidos\FilaDePedidos.Domain\bin\Debug\net6.0\ref\FilasDePedidos.Domain.dll
+C:\Users\BLUIZA\Source\Repos\FilaDePedidos\FilaDePedidos.Domain\bin\Debug\net6.0\FilasDePedidos.Domain.pdb
+C:\Users\BLUIZA\Source\Repos\FilaDePedidos\FilaDePedidos.Domain\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BLUIZA\Source\Repos\FilaDePedidos\FilaDePedidos.Domain\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BLUIZA\Source\Repos\FilaDePedidos\FilaDePedidos.Domain\obj\Debug\net6.0\scopedcss\bundle\FilasDePedidos.Domain.styles.css
+C:\Users\BLUIZA\Source\Repos\FilaDePedidos\FilaDePedidos.Domain\obj\Debug\net6.0\FilasDePedidos.Domain.dll
+C:\Users\BLUIZA\Source\Repos\FilaDePedidos\FilaDePedidos.Domain\obj\Debug\net6.0\ref\FilasDePedidos.Domain.dll
+C:\Users\BLUIZA\Source\Repos\FilaDePedidos\FilaDePedidos.Domain\obj\Debug\net6.0\FilasDePedidos.Domain.pdb

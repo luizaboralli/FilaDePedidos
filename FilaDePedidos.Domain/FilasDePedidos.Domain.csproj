@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <OutputType>Library</OutputType>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="FilaDomain\NewFile.txt" />
+  </ItemGroup>
 </Project>

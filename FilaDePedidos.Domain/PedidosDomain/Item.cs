@@ -1,4 +1,4 @@
-﻿namespace FilasDePedidos.Domain.PedidosDomain;
+﻿namespace FilasDePedidos.Domain.PedidosDomain
 {
     public class Item
     {

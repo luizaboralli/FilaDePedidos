@@ -1,10 +1,10 @@
-﻿namespace FilasDePedidos.Domain.Fila
+﻿using FilasDePedidos.Domain.PedidosDomain;
+
+namespace FilasDePedidos.Domain.FilaDomain
 {
     public class Fila
     {
-        public IEnumerable<Item> Itens { get; set; }
+        public IEnumerable<Item> Itens { get; set; }      
         
-        
-
     }
 }

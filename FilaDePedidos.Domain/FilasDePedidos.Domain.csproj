@@ -4,14 +4,6 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <OutputType>Library</OutputType>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Compile Remove="PedidosDomain\CategoriasDeItem.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Remove="FilaDomain\NewFile.txt" />
-  </ItemGroup>
-
 </Project>

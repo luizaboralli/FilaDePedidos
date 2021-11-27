@@ -1,5 +1,8 @@
-﻿namespace FilasDePedidos.Domain.ServicoDeFila;
-{
+﻿using FilasDePedidos.Domain.FilaDomain;
+using FilasDePedidos.Domain.PedidosDomain;
+
+namespace FilasDePedidos.Domain.ServicoDeFila;
+
     public class ServicoDeFila
     {
       public Fila FilaDeLanches { get; set; }
@@ -14,7 +17,7 @@
     {
         switch (item.Categoria)
         {
-            case CategoriasDeItem.:
+            case CategoriasDeItem:
                 Console.WriteLine($"Measured value is {measurement}; too low.");
                 break;
 
@@ -32,8 +35,5 @@
         }
 
     }
-
-
-
 }
-}
+
